@@ -5,7 +5,7 @@ The Furniture Haven is a website designed to allow user's to search for furnitur
 The focus of the design is to be fully repsonsive in order to provide theb est possible experience on desktop or mobile devices.
 
 
-
+```
 USER STORY:
 As a customer, I want to be able to browse furniture from various companies and styles online.
 When I search for furniture,
@@ -34,3 +34,4 @@ When a user is viewing the website on mobile,
 They are able to do so on a fully responsive mobile version that provides UI improvements to allow for a great experience.
 If a user leaves feedback on the website,
 The feedback is gathered, recorded with anonymity, and utilized internally for future improvements to the user experience while not putting any user information at risk.
+```
